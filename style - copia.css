@@ -185,9 +185,9 @@ html {
 /* Estilos de Redes */
 
 .redes {
-  min-height: calc(610px - 130px);
+  min-height: calc(610px - 90px);
   max-height: 100vh;
-  margin-top: 130px;
+  margin-top: 90px;
   background: #111111;
 }
 
@@ -298,7 +298,7 @@ html {
 .comentarios {
   min-height: calc(610px - 90px);
   max-height: 100vh;
-  margin-top: 130px;
+  margin-top: 90px;
   background: #111111;
 }
 
@@ -503,9 +503,5 @@ html {
 
   .texto h1:nth-child(2) {
     align-self: unset;
-  }
-
-  .iconos-redes a {
-    font-size: 24px;
   }
 }

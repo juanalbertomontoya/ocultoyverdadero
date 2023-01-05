@@ -18,6 +18,6 @@ $(".boton-menu").hover(function () {
 
 /* Activa el boton mobile */
 
-$(".boton-menu-mobile").click(function () {
-  $(".botones-menu").toggleClass("on");
+$(".menu-mobile").click(function () {
+  $(".menu .botones").toggleClass("on");
 });
